@@ -1,0 +1,1 @@
+1. need to put the ipynb file and the folder "img" at the same location 
